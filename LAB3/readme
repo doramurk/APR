@@ -1,0 +1,11 @@
+pokretanjem skripte zadaci.py pokreće se 5 metoda, koje predstavljaju zadatke laboratorijske vježbe.
+Ispis se vrši na konzoli.
+Mapa projekta sadrzi i .txt fileove koji predstavljaju ulaze za pojedine zadatke. Postavljanjem odgovarajućih parametra
+pri pokretanju skripte, moguće je se čitanje ulaza iz datoteka. Pri tome je bitno, ako želite čitati ulaze iz datoteka,
+postaviti sys.argv[1] na True.
+
+Gradijenti i Hesseova matrica riješeni su analitički za svaku funkciju. Ukoliko trebate dodati novu funkciju trebate riješiti
+i njezin gradijent i hesseovu matricu, te ih strukturirati kao i zadane funkcije.
+
+Za prevođenje programa korišten je Python 3.6 interpreter.
+Za kodiranje je korišten text editor PyCharm.

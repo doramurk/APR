@@ -1,0 +1,8 @@
+pokretanjem skripte zadaci.py pokreće se 5 metoda, koje predstavljaju zadatke laboratorijske vježbe.
+Ispis se vrši na konzoli, a za pokretanje programa ne treba dodatnih parametara.
+Mapa projekta sadrzi i .txt fileove koji predstavljaju ulaze za pojedine zadatke. Postavljanjem odgovarajućih parametra
+pri pokretanju skripte, moguće je se čitanje ulaza iz datoteka. Pri tome je bitno, ako želite čitati ilaze iz datoteka,
+postaviti sys.argv[1] na True.
+
+Za prevođenje programa korišten je Python 3.6 interpreter.
+Korišten je text editor PyCharm.

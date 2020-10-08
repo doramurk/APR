@@ -1,0 +1,12 @@
+pokretanjem skripte zadaci.py pokreće se 5 metoda, koje predstavljaju zadatke laboratorijske vježbe.
+Ispis se vrši na konzoli.
+
+Genetski algoritam može se pokretati sa raznovrsnim parametrima, koji utječu na rezultate.
+
+Mogući prikazi genetskog algoritma (kromosoma) je binarni i float.
+
+Implementirane su dvije vrste krizanja za binarni prikaz, i dvije za float prikaz.
+Također mutacija je ostvarena slucajnim mutiranjem određenog bita (samo jednog).
+
+Za prevođenje programa korišten je Python 3.6 interpreter.
+Za kodiranje je korišten text editor PyCharm.

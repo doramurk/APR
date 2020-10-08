@@ -1,0 +1,4 @@
+Implementirani su postupci numericke integracije zadani u domacoj zadaci 5.
+Skripta zadaci pokrece sve zadatke koji su potrebni za prezentaciju vjezbe.
+Konfiguracijske datoteke ulazA, ulazB i ulaz_pocetni zadaju matrice A, B i xt0.
+Konfiguracijske datoteke pocetni_uvjeti zadaju pocetnu tocku, zavrsnu tocku, period integracije i ispis.
